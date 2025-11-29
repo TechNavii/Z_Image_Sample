@@ -5,8 +5,6 @@ Lightweight Gradio UI for running the Tongyi-MAI Z-Image Turbo text-to-image pip
 ## What is here
 - `app.py`: Gradio Blocks app with prompt controls, safety checks, and a simple stats footer.
 - `requirements.txt`: Runtime dependencies pinned to tested versions.
-- `assets/`, `Z_Image_Report.pdf`, `Decoupled_DMD.pdf`: Reference visuals and project papers.
-- `LICENSE`: Apache 2.0 license for the repo.
 
 ## Prerequisites
 - Python 3.10+ recommended.
