@@ -33,5 +33,3 @@ Gradio prints a local URL (default http://127.0.0.1:7860) to open in your browse
 - `.gitignore` excludes caches, virtual environments, build outputs, and common model weight formats.
 - Avoid committing downloaded checkpoints or large artifacts.
 
-## License
-Apache 2.0. See `LICENSE` for details.
